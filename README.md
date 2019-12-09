@@ -1,2 +1,2 @@
 # remote-demo
-# this is a sample respository changed via github
+# this is a sample respository changed via github2
